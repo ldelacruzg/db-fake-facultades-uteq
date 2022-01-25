@@ -9,42 +9,42 @@
     },
     {
       "facultad": "Fac. Ciencias Agropecuarias",
-      "decano": "",
+      "decano": "CARRANZA PATIÑO MERCEDES SUSANA ",
       "direccion": "Campus “La María”, km 7 vía Quevedo-El Empalme",
-      "image": "",
+      "image": "https://uteq.edu.ec/images/escudouteq.png",
       "map": [-1.0802834084531636, -79.50145427542644]
     },
     {
       "facultad": "Fac. Ciencias de la Educación",
-      "decano": "",
+      "decano": "MARTINEZ MEDINA CARLOS MANUEL",
       "direccion": "Av. Quito km. 1 1/2 vía a Santo Domingo de los Tsáchilas",
-      "image": "",
+      "image": "https://uteq.edu.ec/images/escudouteq.png",
       "map": [-1.0121916010674832, -79.4711655618941]
     },
     {
       "facultad": "Fac. Ciencias de la Industria y Producción",
-      "decano": "",
+      "decano": "MURILLO OVIEDO JORGE PATRICIO",
       "direccion": "Campus “La María”, km 7 vía Quevedo-El Empalme",
-      "image": "",
+      "image": "https://uteq.edu.ec/images/escudouteq.png",
       "map": [-1.0803454225754279, -79.50141818806752]
     },
     {
       "facultad": "Fac. Ciencias Empresariales",
-      "decano": "",
+      "decano": "OVIEDO BAYAS BYRON WLADIMIR ",
       "direccion": "Av. Quito km. 1 1/2 vía a Santo Domingo de los Tsáchilas",
       "image": "https://uteq.edu.ec/images/about/logo_fce.jpg",
       "map": [-1.012196964648324, -79.47086046062039]
     },
     {
       "facultad": "Fac. Ciencias Sociales, Económicas y Financieras",
-      "decano": "",
+      "decano": "PASTRANO QUINTANA EDGAR VICENTE",
       "direccion": "Av. Quito km. 1 1/2 vía a Santo Domingo de los Tsáchilas",
-      "image": "",
+      "image": "https://uteq.edu.ec/images/escudouteq.png",
       "map": [-1.012278088807614, -79.47084570847088]
     },
     {
       "facultad": "Fac. Ciencias de la Salud",
-      "decano": "",
+      "decano": "SOTOMAYOR HERRERA IGNACIO ANTONIO",
       "direccion": "Av. Quito km. 1 1/2 vía a Santo Domingo de los Tsáchilas",
       "image": "https://uteq.edu.ec/images/about/logo_enf1.jpg",
       "map": [-1.0123887126579467, -79.4707444550811]
