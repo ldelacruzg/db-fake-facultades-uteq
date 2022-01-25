@@ -5,6 +5,8 @@
       "decano": "CHIRIBOGA CASANOVA WASHINGTON ALBERTO",
       "direccion": "Av. Quito km. 1 1/2 vía a Santo Domingo de los Tsáchilas",
       "image": "https://uteq.edu.ec/images/about/logo_fci.jpg",
+      "telefono": "(+593) 5 3702-220 Ext. 8052",
+      "email": "facultadci@uteq.edu.ec",
       "map": [-1.0123820081822743, -79.4710609557431]
     },
     {
@@ -12,6 +14,8 @@
       "decano": "CARRANZA PATIÑO MERCEDES SUSANA ",
       "direccion": "Campus “La María” km 7 vía Quevedo-El Empalme",
       "image": "https://scontent.fuio14-1.fna.fbcdn.net/v/t1.6435-9/160346653_573103820303560_3803914246245044959_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=TG1Ue9SsYQ0AX8Obcin&_nc_ht=scontent.fuio14-1.fna&oh=00_AT9PVX0rsx7VHuQ6aHqIHiJHcZ6NX5Af0ZZc3tqU7TMyhA&oe=6213F69E",
+      "telefono": "(+593) 5 3702-220 Ext. 8067",
+      "email": "decanato_agropecuarias@uteq.edu.ec",
       "map": [-1.080284073580504, -79.50159729077613]
     },
     {
@@ -19,6 +23,8 @@
       "decano": "MARTINEZ MEDINA CARLOS MANUEL",
       "direccion": "Av. Quito km. 1 1/2 vía a Santo Domingo de los Tsáchilas",
       "image": "https://uteq.edu.ec/images/escudouteq.png",
+      "telefono": "(+593) 5 3702-220 Ext. 8066",
+      "email": "fcse@uteq.edu.ec",
       "map": [-1.0121916010674832, -79.4711655618941]
     },
     {
@@ -26,6 +32,8 @@
       "decano": "MURILLO OVIEDO JORGE PATRICIO",
       "direccion": "Campus “La María” km 7 vía Quevedo-El Empalme",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Zg8aXa9RPdmWhRcO0ndgqfWpOqkipgi6FQ&usqp=CAU",
+      "telefono": "(+593) 5 3702-220 Ext. 8025",
+      "email": "fcip@uteq.edu.ec",
       "map": [-1.0802257459040738, -79.50168312146411]
     },
     {
@@ -33,6 +41,8 @@
       "decano": "OVIEDO BAYAS BYRON WLADIMIR ",
       "direccion": "Av. Quito km. 1 1/2 vía a Santo Domingo de los Tsáchilas",
       "image": "https://uteq.edu.ec/images/about/logo_fce.jpg",
+      "telefono": "(+593) 5 3702-220 Ext. 8038",
+      "email": "facultadce@uteq.edu.ec",
       "map": [-1.012196964648324, -79.47086046062039]
     },
     {
@@ -40,6 +50,8 @@
       "decano": "PASTRANO QUINTANA EDGAR VICENTE",
       "direccion": "Av. Quito km. 1 1/2 vía a Santo Domingo de los Tsáchilas",
       "image": "https://scontent.fgye1-1.fna.fbcdn.net/v/t39.30808-6/270225860_105938625296854_8745925011639879509_n.png?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeHIJmApvOwxD08AZGRX1al3GGwbE9m3pYkYbBsT2beliaEsB2jGEgQnOE4QdLNRLjw&_nc_ohc=VL6Xxf6f3KMAX8OYiJy&_nc_ht=scontent.fgye1-1.fna&oh=00_AT8i1q80EO05RLkpFj4esKXkkC8IaLv_OUJJnkC3WSVF8Q&oe=61F43A35",
+      "telefono": "(+593) 5 3702-220 Ext. 8001",
+      "email": "fcsef@uteq.edu.ec",
       "map": [-1.012278088807614, -79.47084570847088]
     },
     {
@@ -47,6 +59,8 @@
       "decano": "SOTOMAYOR HERRERA IGNACIO ANTONIO",
       "direccion": "Av. Quito km. 1 1/2 vía a Santo Domingo de los Tsáchilas",
       "image": "https://uteq.edu.ec/images/about/logo_enf1.jpg",
+      "telefono": "(+593) 5 3702-220 Ext. 8001",
+      "email": "",
       "map": [-1.0123887126579467, -79.4707444550811]
     }
   ]
